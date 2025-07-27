@@ -1,0 +1,47 @@
+# pyproject.toml - comprehensive-case-webapp
+#
+# Copyright 2023 Jinsong Zhang
+#
+# This file can NOT be copied and/or distributed without the express permission of Jinsong Zhang
+
+[tool.poetry]
+name = "comprehensive-case-webapp"
+version = "0.1.0"
+description = "Comprehensive Case APP fro Word Segmentation"
+authors = ["Jinsong Zhang <spindensity@gmail.com>"]
+readme = "README.md"
+packages = [{include = "comprehensive_case_webapp"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+uvicorn = "^0.23.1"
+fastapi = "^0.97.0"
+jieba = "^0.42.1"
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.3.0"
+isort = "^5.12.0"
+ipython = "^8.12.0"
+
+[tool.poetry.group.test.dependencies]
+locust = "^2.15.1"
+
+[tool.poetry.group.deploy.dependencies]
+gunicorn = "^21.2.0"
+
+[tool.isort]
+py_version=310
+known_first_party = [ "comprehensive_case_webapp" ]
+profile = "black"
+
+[tool.black]
+target-version = ["py310"]
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[[tool.poetry.source]]
+name = "tencent"
+priority = "default"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
