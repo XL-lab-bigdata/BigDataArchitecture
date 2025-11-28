@@ -32,7 +32,7 @@
 
 本书配有大量图表、代码示例以及算法步骤、延伸阅读、扩展说明、注意事项、示例讲解 5 种知识模块，多样化的辅助元素将知识点进一步延伸、拓展、深入、贯通、连接、交叉，并使得学习过程更加直观和有趣。
 
-<img width="1798" height="906" alt="image" src="https://github.com/user-attachments/assets/f1fe040c-4e1e-4d57-821c-ac6aa8fc6a57" />
+<img width="1750" height="964" alt="image" src="https://github.com/user-attachments/assets/8cd16137-b217-4e76-ae31-a7f618e84145" />
 
 
 
