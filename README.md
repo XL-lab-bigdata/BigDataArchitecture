@@ -66,7 +66,7 @@
 
 <!-- 第二行 -->
 <p align="center">
-  <img src="images/covers/4.jpg" width="30%" title="" alt="图片4">
+  <img src="images/covers/7.jpg" width="30%" title="" alt="图片7">
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@
 <p align="center">
   <img src="images/covers/5.jpg" width="30%" title="" alt="图片5">
   <img src="images/covers/6.jpg" width="30%" title="" alt="图片6">
-  <img src="images/covers/7.jpg" width="30%" title="" alt="图片7">
+  <img src="images/covers/4.jpg" width="30%" title="" alt="图片4">
 </p>
 
 <p align="center">
@@ -101,3 +101,9 @@
   <b></b>
 </p>
 
+# 购买链接
+
+<p align="center">
+  <img width="610" height="582" alt="ada4ac2087da6add780b01fd088bf902" src="https://github.com/user-attachments/assets/77eebf1c-0ce4-4157-be77-bbd3da32a6b3"/>
+
+</p>
